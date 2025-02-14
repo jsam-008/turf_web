@@ -19,8 +19,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     const videos = [
-        "https://github.com/jsam-008/turf_web/blob/main/Football%20in%20slow%20motion%20-%20social%20media%20video%20ad%20-%20stock%20video.mp4,
-        "https://github.com/jsam-008/turf_web/blob/main/Cricket%20Video%20Promo.mp4"
+        "C:\Users\91637\Downloads\Football in slow motion - social media video ad - stock video.mp4",
+        "C:\Users\91637\Downloads\Cricket Video Promo.mp4"
     ];
 
     let currentVideoIndex = 0;
