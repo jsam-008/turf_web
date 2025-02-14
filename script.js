@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     const videos = [
-        "https://drive.google.com/file/d/1ZrwtxVkGwFJStXO552843_OscOhvEu4Q/view?usp=drive_link",
+        "https://github.com/jsam-008/turf_web/blob/main/Football%20in%20slow%20motion%20-%20social%20media%20video%20ad%20-%20stock%20video.mp4,
         "https://drive.google.com/file/d/1mKO__hNjyqG2loj88o3MeVt9NwQylBxz/view?usp=drive_link"
     ];
 
