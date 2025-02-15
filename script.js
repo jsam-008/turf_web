@@ -19,8 +19,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     const videos = [
-        "https://drive.google.com/file/d/1ZrwtxVkGwFJStXO552843_OscOhvEu4Q/view?usp=drive_link",
-        "https://drive.google.com/file/d/1mKO__hNjyqG2loj88o3MeVt9NwQylBxz/view?usp=drive_link"
+        "C:\Users\91637\Downloads\Football in slow motion - social media video ad - stock video.mp4",
+        "C:\Users\91637\Downloads\Cricket Video Promo.mp4"
     ];
 
     let currentVideoIndex = 0;
