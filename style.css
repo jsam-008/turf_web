@@ -90,12 +90,13 @@ body {
 }
 
 .turf-card:hover {
-    background-color: #0d00ff42;
+    background-color:rgb(255, 255, 255);
+    color: #000000;
     box-shadow: 0px 0px 10px rgba(140, 255, 0, 0.488);
 }
 
 .turf-card:hover {
-    transform: scale(1.09);
+    transform: scale(1.10);
 }
 
 .turf-card img {
